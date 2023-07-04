@@ -1,6 +1,6 @@
-# adv_basics
+# Flutter Quiz App
 
-A new Flutter project.
+A simple flutter quiz game app for learning flutter.
 
 ## Getting Started
 
