@@ -1,7 +1,7 @@
 # Flutter Quiz App
 
-A simple flutter quiz game app for learning flutter.
-![alt-text](./readme/demo.gif)
+A simple flutter quiz game app for learning flutter.\
+<img src="./readme/demo.gif" width="300">
 
 ## Getting Started
 
